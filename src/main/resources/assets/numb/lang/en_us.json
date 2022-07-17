@@ -1,6 +1,12 @@
 {
   "_Items": "",
-  "item.numb.void_crystal": "§0§lVoid Crystal",
+  "item.numb.void_crystal": "Void Crystal",
+  "item.numb.universe_amethyst": "Uni Amethyst",
+
+
+  "item.numb.raw_element_zero": "Raw Eezo",
+  "item.numb.refined_element_zero": "Refined Eezo",
+
 
   "_Blocks": "",
   "": ""
