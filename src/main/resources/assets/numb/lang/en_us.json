@@ -9,5 +9,15 @@
 
 
   "_Blocks": "",
-  "block.numb.void_ore": "Void Ore"
+  "block.numb.void_ore": "Void Ore",
+  "block.numb.void_crystal_sand": "Void Crystal Sand",
+  "block.numb.dense_blue_ice": "Dense Blue Ice",
+
+
+  "itemGroup.numb": "Numb",
+
+
+  "tooltip.numb.hammer.tooltip.shift": "Hammer Can Be Used At A Grinding \nCauldron To Get Special Items",
+  "tooltip.numb.noshift": "Hold §eShift §rTo See Tool Tips"
+
 }

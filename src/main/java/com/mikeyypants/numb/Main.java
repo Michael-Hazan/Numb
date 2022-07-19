@@ -1,6 +1,7 @@
 package com.mikeyypants.numb;
 
 import com.mikeyypants.numb.block.ModBlocks;
+import com.mikeyypants.numb.block.custom.GrindingCauldron;
 import com.mikeyypants.numb.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -26,7 +27,7 @@ public class Main
 {
     public static final String MOD_ID = "numb";
     // Directly reference a log4j logger.
-    private static final Logger LOGGER = LogManager.getLogger();
+    public static final Logger LOGGER = LogManager.getLogger();
 
 
     public Main() {

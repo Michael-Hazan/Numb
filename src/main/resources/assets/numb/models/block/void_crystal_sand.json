@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "numb:block/void_crystal_sand"
+  }
+}
